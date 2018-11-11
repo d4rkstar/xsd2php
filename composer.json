@@ -32,8 +32,7 @@
   "require-dev": {
     "phpunit/phpunit": "^4.8|^5.0",
     "jms/serializer": "^1.9",
-    "goetas-webservices/xsd2php-runtime": "^0.2.7",
-    "ext-xmldiff": "*"
+    "goetas-webservices/xsd2php-runtime": "^0.2.7"
   },
   "autoload": {
     "psr-4": {
